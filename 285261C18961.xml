@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<License>
+  <Feature>78XX_ENT_2_MPP</Feature>
+  <Vendor>cisco</Vendor>
+  <Version>1</Version>
+  <Type>permanent</Type>
+  <Count>uncounted</Count>
+  <HostID>285261c18961</HostID>
+  <LicFileID>20250604193223125</LicFileID>
+  <LicLineID>1</LicLineID>
+  <PAK>KLJ6RAON53E</PAK>
+  <Signature>
+    04EE12281EAFC3E9E16C0F88EFA24B6DB885421ED843DC965968BE60FEF81B6B
+    8D61062D0648D922D5118B74507D32131E9333C9C979AC154C89E8AD
+  </Signature>
+</License>
